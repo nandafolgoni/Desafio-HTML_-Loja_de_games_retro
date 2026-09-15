@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-O **GameZone Retro** é uma página web promocional desenvolvida em **HTML5** para representar uma loja especializada em jogos e consoles clássicos.
+O **GameZone Retro** é uma página web promocional desenvolvida em **HTML** para representar uma loja especializada em jogos e consoles clássicos.
 
 O projeto foi desenvolvido como parte de um **Mini Desafio HTML**, com o objetivo de colocar em prática conceitos básicos de HTML, como títulos, parágrafos, listas, links, imagens e tabelas.
 
